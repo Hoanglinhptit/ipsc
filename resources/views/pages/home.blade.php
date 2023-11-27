@@ -3,5 +3,7 @@
 @section('title', 'Welcome page')
 
 @section('content')
-    <p>This is my body content.</p>
+    <h1 class="text-3xl font-bold underline">
+        Home
+    </h1>
 @endsection
