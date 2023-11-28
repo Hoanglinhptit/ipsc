@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Welcome page')
+@section('title', 'About page')
 
 @section('content')
     <h1 class="text-3xl font-bold underline">
