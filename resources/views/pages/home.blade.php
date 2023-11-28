@@ -4,6 +4,6 @@
 
 @section('content')
     <h1 class="text-3xl font-bold underline">
-        Home
+        Home welcome
     </h1>
 @endsection
